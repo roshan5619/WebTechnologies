@@ -1,2 +1,1 @@
 # WebTechnologies
-About Presidency University
